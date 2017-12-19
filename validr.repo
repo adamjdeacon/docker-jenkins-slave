@@ -1,0 +1,6 @@
+[validr-3.2.5]
+name=Valid-R Packages for Enterprise Linux $releasever - $basearch
+baseurl=file:///opt/mango/validr/rpm_repo/
+failovermethod=priority
+enabled=1
+gpgcheck=0
